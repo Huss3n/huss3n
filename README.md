@@ -1,6 +1,5 @@
 
 <div id="header" align="">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/muktar-hussein-2b21b2257/">
