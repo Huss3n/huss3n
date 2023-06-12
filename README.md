@@ -22,4 +22,7 @@
   - :telescope: I’m learning software development and love to contribute to frontend and backend web applications.
 
 - :seedling: Exploring Nextjs and react.
+  <h3> See yah!</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
 </div>
