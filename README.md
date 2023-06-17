@@ -21,7 +21,6 @@
   I am an aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi.
   - :telescope: I’m learning software development and love to contribute to frontend and backend web applications.
 
-- :seedling: Exploring Nextjs and react.
-  <h3> See yah!</h3>
+
   
 </div>
