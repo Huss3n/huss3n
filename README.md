@@ -7,8 +7,8 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 - Core Data
 - Firebase
 - MapKit
-- WidgetKit
 - AppStorage
 - Core location
 - Core text
+- Combine
   
