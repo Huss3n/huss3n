@@ -11,7 +11,8 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 - Core location
 - Core text
 - Combine
-  
+# Building
+Currently working on <a href="https://github.com/Huss3n/ChatSwiftUI"> ChatSwiftUI</a> 
 # App overview
 <a href="https://github.com/Huss3n/CryptoSwiftUI"> Crypto App</a> is a mobile application built using Swift and SwiftUI. It leverages the CoinGecko API to fetch cryptocurrency data and displays it in a list
 <p>
