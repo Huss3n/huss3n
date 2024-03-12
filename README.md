@@ -22,8 +22,8 @@ Currently working on <a href="https://github.com/Huss3n/ChatSwiftUI"> ChatSwiftU
 
 <p>
    <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/home.png", width="200" hspace="4"/>
+   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/homee.png", width="200" hspace="4"/>
    <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/details.png", width="200" hspace="4"/>
-   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/search.png", width="200" hspace="4"/>
    <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/profile.png", width="200" hspace="4"/>
 </p>
 
