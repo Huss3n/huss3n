@@ -30,11 +30,11 @@ Currently working on <a href="https://github.com/Huss3n/ChatSwiftUI"> ChatSwiftU
 <a href="https://github.com/Huss3n/AirbnbSwiftUI">Airbnbclone</a> built using SwiftUI, aimed at providing a practical playground for honing SwiftUI skills. The project integrates Firebase for authentication and will incorporate an API to fetch property photos, enhancing the overall user experience.
 
 <p>
-   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/home.png", width="190" hspace="4"/>
-   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/homee.png", width="190" hspace="4"/>
-   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/details.png", width="190" hspace="4"/>
-   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/wishlist.png", width="190" hspace="4"/>
-   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/profile.png", width="190" hspace="4"/>
+   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/home.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/homee.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/details.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/wishlist.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/AirbnbSwiftUI/blob/main/screenshots/profile.png", width="150" hspace="4"/>
 </p>
 
 <hr>
