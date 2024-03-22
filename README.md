@@ -41,6 +41,8 @@ Currently working on <a href="https://github.com/Huss3n/ChatSwiftUI"> ChatSwiftU
 
 ## Crypto App
 <a href="https://github.com/Huss3n/CryptoSwiftUI"> Crypto App</a> is a mobile application built using Swift and SwiftUI. It leverages the CoinGecko API to fetch cryptocurrency data and displays it in a list.
+
+## App Screenshots
 <p>
    <img src="https://github.com/Huss3n/CryptoSwiftUI/blob/main/Screenshots/homescreen.png", width="200" hspace="4"/>
    <img src="https://github.com/Huss3n/CryptoSwiftUI/blob/main/Screenshots/portfolioscreen.png", width="200" hspace="4"/>
