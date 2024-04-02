@@ -12,8 +12,6 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 - Core text
 - Combine
 # Building
-Currently working on <a href="https://github.com/Huss3n/ChatSwiftUI"> ChatSwiftUI</a> 
-
 <hr> 
 
 # App overview
