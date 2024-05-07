@@ -50,6 +50,17 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 
 <hr>
 
+<a href="https://github.com/Huss3n/RickAndMortySwiftUI">Rick and Morty App </a> is built with SwiftUI and leverages the Rick and Morty API to fetch and display information about characters, locations, and episodes from the beloved animated series.
+<p>
+   <img src="https://github.com/Huss3n/RickAndMortySwiftUI/blob/main/screenshots/characters.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/RickAndMortySwiftUI/blob/main/screenshots/characterDetail.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/RickAndMortySwiftUI/blob/main/screenshots/episode.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/RickAndMortySwiftUI/blob/main/screenshots/episodeDetail.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/RickAndMortySwiftUI/blob/main/screenshots/location.png", width="150" hspace="4"/>
+</p>
+
+<hr>
+
 ## News App
 <a href="https://github.com/Huss3n/NewsAppSwiftAppSwiftUI">NewsApp</a> is a SwiftUI-based iOS application that leverages the NewsAPI to fetch and display news articles. Users can explore news based on various categories, search for specific topics, view their search history, bookmark articles, and share links.
 
