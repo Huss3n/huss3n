@@ -50,6 +50,8 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 
 <hr>
 
+## Rick and Morty App
+
 <a href="https://github.com/Huss3n/RickAndMortySwiftUI">Rick and Morty App </a> is built with SwiftUI and leverages the Rick and Morty API to fetch and display information about characters, locations, and episodes from the beloved animated series.
 <p>
    <img src="https://github.com/Huss3n/RickAndMortySwiftUI/blob/main/screenshots/characters.png", width="150" hspace="4"/>
