@@ -16,6 +16,17 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 
 # App overview
 
+## My Safaricom App
+<a href="https://github.com/Huss3n/MySafAppSwiftUI/tree/main"> My Safaricome app</a> project is a clone of the popular MySafaricom app, built with SwiftUI for a modern and intuitive user interface and gemini api to mimick the Zuri assistant on the real app.
+<p>
+  <img src="https://github.com/Huss3n/MySafAppSwiftUI/blob/main/Screenshots/home.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/MySafAppSwiftUI/blob/main/Screenshots/mpesa.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/MySafAppSwiftUI/blob/main/Screenshots/edit.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/MySafAppSwiftUI/blob/main/Screenshots/discover.png", width="150" hspace="4"/>
+   <img src="https://github.com/Huss3n/MySafAppSwiftUI/blob/main/Screenshots/account.png", width="150" hspace="4"/>
+</p>
+
+
 ## ThreadsClone
 <a href="https://github.com/Huss3n/ThreadsClone"> ThreadsClone</a> This project is a clone of the popular Threads app, built with SwiftUI for a modern and intuitive user interface and Firebase for robust backend functionalities.
 
