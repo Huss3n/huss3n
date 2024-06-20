@@ -3,18 +3,30 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 
 ## Skills
 - SwiftUI
-- Animations 
 - Core Data
+- Swift Data
 - Firebase
 - MapKit
 - AppStorage
 - Core location
 - Core text
+- Core Animation
 - Combine
 # Building
 <hr> 
 
 # App overview
+
+## Mpesa App 
+<a href="https://github.com/Huss3n/MpesaAppClone">M-PESA app</a> is a clone of the real world app by Safaricom PLC that is used by the users of iOS devices. It simulates the major functions of the app like sending funds, requesting funds, withdrawals and even airtime purchase. I also added Mshwari loans and savings and the global pay. The app is connected to Firebase for the backend for user data storage and authentication. The app also uses an exchange rates api and countries api to fetch the needed data for the user.
+
+<p>
+   <img src="https://github.com/Huss3n/MpesaAppClone/blob/main/Screenshots/home.png", width="200" hspace="4"/>
+   <img src="https://github.com/Huss3n/MpesaAppClone/blob/main/Screenshots/transact.png", width="200" hspace="4"/>
+   <img src="https://github.com/Huss3n/MpesaAppClone/blob/main/Screenshots/services.png", width="200" hspace="4"/>
+   <img src="https://github.com/Huss3n/MpesaAppClone/blob/main/Screenshots/grow.png", width="200" hspace="4"/>
+
+</p>
 
 ## My Safaricom App
 <a href="https://github.com/Huss3n/MySafAppSwiftUI/tree/main"> My Safaricome app</a> project is a clone of the popular MySafaricom app, built with SwiftUI for a modern and intuitive user interface and gemini api to mimick the Zuri assistant on the real app.
