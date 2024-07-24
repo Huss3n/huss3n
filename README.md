@@ -12,10 +12,19 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 - Core text
 - Core Animation
 - Combine
-# Building
 <hr> 
 
 # App overview
+
+## HomeQuest
+<a href="https://github.com/Huss3n/HomeQuest"> HomeQuest</a> is a comprehensive iOS application designed to enhance the real estate search experience. Users can browse properties, bookmark their favorites, chat with realtors, and leave reviews. This project is built using SwiftUI and integrates with Firebase for authentication and data management.
+
+<p>
+   <img src="https://github.com/Huss3n/HomeQuest/blob/main/Screenshots/home.png", width="200" hspace="4"/>
+   <img src="https://github.com/Huss3n/HomeQuest/blob/main/Screenshots/swipe.png", width="200" hspace="4"/>
+   <img src="https://github.com/Huss3n/HomeQuest/blob/main/Screenshots/swipe1.png", width="200" hspace="4"/>
+   <img src="https://github.com/Huss3n/HomeQuest/blob/main/Screenshots/map.png", width="200" hspace="4"/>
+</p>
 
 ## Mpesa App 
 <a href="https://github.com/Huss3n/MpesaAppClone">M-PESA app</a> is a clone of the real world app by Safaricom PLC that is used by the users of iOS devices. It simulates the major functions of the app like sending funds, requesting funds, withdrawals and even airtime purchase. I also added Mshwari loans and savings and the global pay. The app is connected to Firebase for the backend for user data storage and authentication. The app also uses an exchange rates api and countries api to fetch the needed data for the user.
