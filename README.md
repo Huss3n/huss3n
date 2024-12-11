@@ -26,6 +26,16 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
    <img src="https://github.com/Huss3n/HomeQuest/blob/main/Screenshots/map.png", width="200" hspace="4"/>
 </p>
 
+## Uber Clone
+<a href="https://github.com/Huss3n/UberSwiftUI">Uber Clone</a> is a project showcasing a ride-hailing app built using SwiftUI. It integrates Firebase for data storage and user authentication, along with the Apple Maps API for map functionalities. The app features a sleek and user-friendly interface, mimicking core functionalities of the Uber app, including ride requests and real-time updates. This project highlights my expertise in iOS development, backend integration, and UI/UX design.
+
+<p>
+     <img src="https://github.com/Huss3n/UberSwiftUI/blob/main/screenshots/home.png", width="200" hspace="4"/>
+     <img src="https://github.com/Huss3n/UberSwiftUI/blob/main/screenshots/request.png", width="200" hspace="4"/>
+     <img src="https://github.com/Huss3n/UberSwiftUI/blob/main/screenshots/connecting.png", width="200" hspace="4"/>
+     <img src="https://github.com/Huss3n/UberSwiftUI/blob/main/screenshots/riderequested.png", width="200" hspace="4"/>
+</p>
+
 ## Mpesa App 
 <a href="https://github.com/Huss3n/MpesaAppClone">M-PESA app</a> is a clone of the real world app by Safaricom PLC that is used by the users of iOS devices. It simulates the major functions of the app like sending funds, requesting funds, withdrawals and even airtime purchase. I also added Mshwari loans and savings and the global pay. The app is connected to Firebase for the backend for user data storage and authentication. The app also uses an exchange rates api and countries api to fetch the needed data for the user.
 
